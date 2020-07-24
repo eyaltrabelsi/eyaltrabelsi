@@ -1,10 +1,10 @@
 
 
-## Hi there, I'm Eyal 👋
+## Hi there, I'm Eyal 👋 
 
-Enthusiastic Software Engineer👷 <br/>
+<br/>Enthusiastic Software Engineer👷 <br/>
 Who appreciates good software engineering 🙏 <br/>
-I have with big passion for Python 🐍, Machine Learning 🤖 and Performance Optimisations🦸 <br/><br/>
+I have with big passion for Python 🐍, Machine Learning 🤖 and Performance Optimisations🦸 <br/><br/><br/>
 
 
 ## Latest Blog Posts:
@@ -17,7 +17,7 @@ I have with big passion for Python 🐍, Machine Learning 🤖 and Performance O
 </a></li>
     <li><a href=https://medium.com/towards-artificial-intelligence/50-python-3-tips-tricks-e5dbe05212d7>50+ Python 3 Tips & Tricks
 </a></li>
-</ul><br/>
+</ul>
 
 
 

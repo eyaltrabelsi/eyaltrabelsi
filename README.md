@@ -4,8 +4,9 @@
 
 <br/>Enthusiastic Software Engineer👷 <br/>
 Who appreciates good software engineering 🙏 <br/>
-I have with big passion for Python 🐍, Machine Learning 🤖 and Performance Optimisations🦸 <br/><br/><br/>
+I have with big passion for Python 🐍, Machine Learning 🤖 and Performance Optimisations🦸 
 
+:coffee: **Wanna chat?** :point_right:  <pre>  <a href="https://twitter.com/eyaltra"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/eyaltrabelsi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a></a> <a href="https://medium.com/@Eyaltra"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a><a href="https://"><img src="https://img.shields.io/github/followers/eyaltrabelsi.svg?label=GitHub&style=social" alt="GitHub"></a></pre>
 
 ## Latest Blog Posts:
 <ul>
@@ -22,7 +23,4 @@ I have with big passion for Python 🐍, Machine Learning 🤖 and Performance O
 
 
 ![image](https://github.com/eyaltrabelsi/eyaltrabelsi/blob/master/dino.gif)<br/><br/>
-
-
-:coffee: **Wanna chat?** :point_right:  <pre>  <a href="https://twitter.com/eyaltra"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/eyaltrabelsi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a></a> <a href="https://medium.com/@Eyaltra"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a><a href="https://"><img src="https://img.shields.io/github/followers/eyaltrabelsi.svg?label=GitHub&style=social" alt="GitHub"></a></pre>
 

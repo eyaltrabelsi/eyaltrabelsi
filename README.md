@@ -23,6 +23,19 @@ I have with big passion for Python 🐍, Machine Learning 🤖 and Performance O
 </ul>
 
 
+## Latest Talks:
+<ul>    
+    <li><a href=https://www.youtube.com/watch?v=9wfFXRCkkLE>Profiling Python by Example
+</a></li>
+    <li><a href=https://www.youtube.com/watch?v=RXMiMpMfzXw>Practical Optimisations for Pandas
+</a></li>
+    <li><a href=https://www.youtube.com/watch?v=6sVDuFQRGgo> Elegant Exception Handling
+</a></li>
+    <li><a href=https://www.youtube.com/watch?v=Mh0LAIxTTSs>Getting to Know any Dataset in 4 Lines of Python
+</a></li>
+</ul>
+
+
 
 ![image](https://github.com/eyaltrabelsi/eyaltrabelsi/blob/master/dino.gif)<br/><br/>
 

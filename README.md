@@ -39,3 +39,12 @@ I have with big passion for Python 🐍, Machine Learning 🤖 and Performance O
 
 ![image](https://github.com/eyaltrabelsi/eyaltrabelsi/blob/master/dino.gif)<br/><br/>
 
+<! --- 
+## Others:
+<ul>    
+    <li><a href=https://cheatography.com/eyaltra/cheat-sheets/profiling-python-code-in-jupyter>Profiling Python Code In Jupyter
+</a></li>
+</ul>
+--->
+
+

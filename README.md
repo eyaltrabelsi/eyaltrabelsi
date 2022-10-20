@@ -11,8 +11,8 @@ I have with big passion for Python 🐍, Machine Learning 🤖 Scale and Perform
 ## Latest Blog Posts:
 <ul>   
 
-        <li><a href=https://medium.com/bigabids-dataverse/how-to-build-trust-in-machine-learning-the-sane-way-39d879f22e69>How to build TRUST in Machine Learning, the sane way</a></li>
-        <li><a href=https://medium.com/better-programming/a-comprehensive-guide-to-profiling-python-programs-f8b7db772e6>A Comprehensive Guide to Profiling Python Programs</a></li>
+    <li><a href=https://medium.com/bigabids-dataverse/how-to-build-trust-in-machine-learning-the-sane-way-39d879f22e69>How to build TRUST in Machine Learning, the sane way</a></li>
+    <li><a href=https://medium.com/better-programming/a-comprehensive-guide-to-profiling-python-programs-f8b7db772e6>A Comprehensive Guide to Profiling Python Programs</a></li>
     <li><a href=https://medium.com/towards-artificial-intelligence/comprehensive-guide-to-optimize-your-pandas-code-62980f8c0e64>Comprehensive Guide To Optimize Your Pandas Code</a></li>
     <li><a href=https://cheatography.com/eyaltra/cheat-sheets/profiling-python-code-in-jupyter/>Profiling Python Code In Jupyter Cheat Sheet</a></li>
     <li><a href=https://towardsdatascience.com/debugging-jupyter-notebooks-will-boost-your-productivity-a33387f4fa62/>Debugging Jupyter Notebooks Will Boost Your Productivity</a></li>

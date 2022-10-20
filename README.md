@@ -10,7 +10,6 @@ I have with big passion for Python 🐍, Machine Learning 🤖 Scale and Perform
 
 ## Latest Blog Posts:
 <ul>   
-
     <li><a href=https://medium.com/bigabids-dataverse/how-to-build-trust-in-machine-learning-the-sane-way-39d879f22e69>How to build TRUST in Machine Learning, the sane way</a></li>
     <li><a href=https://medium.com/better-programming/a-comprehensive-guide-to-profiling-python-programs-f8b7db772e6>A Comprehensive Guide to Profiling Python Programs</a></li>
     <li><a href=https://medium.com/towards-artificial-intelligence/comprehensive-guide-to-optimize-your-pandas-code-62980f8c0e64>Comprehensive Guide To Optimize Your Pandas Code</a></li>
@@ -28,7 +27,6 @@ I have with big passion for Python 🐍, Machine Learning 🤖 Scale and Perform
 
 ## Latest Talks:
 <ul>    
-    
     <li><a href=https://github.com/eyaltrabelsi/my-notebooks/blob/master/Lectures/query_optimization_for_mere_humans/Query%20Optimization%20for%20Mere%20Humans.pdf>Query Optimization for Mere Humans
 </a></li>    
     <li><a href=https://www.youtube.com/watch?v=9wfFXRCkkLE>Profiling Python by Example
@@ -52,5 +50,4 @@ I have with big passion for Python 🐍, Machine Learning 🤖 Scale and Perform
 </a></li>
 </ul>
 --->
-
 

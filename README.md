@@ -29,6 +29,8 @@ I have with big passion for Python 🐍, Machine Learning 🤖 Scale and Perform
 <ul>    
     <li><a href=https://github.com/eyaltrabelsi/my-notebooks/blob/master/Lectures/query_optimization_for_mere_humans/Query%20Optimization%20for%20Mere%20Humans.pdf>Query Optimization for Mere Humans
 </a></li>    
+<li><a href=https://github.com/eyaltrabelsi/my-notebooks/blob/master/Lectures/data_intensive_applications_the_sane_way/Testing%20Data%20Intensive%20Applications%2C%20the%20sane%20way-15min.ipynb>Testing Data Intensive Applications, the sane way
+</a></li>
     <li><a href=https://www.youtube.com/watch?v=9wfFXRCkkLE>Profiling Python by Example
 </a></li>
     <li><a href=https://www.youtube.com/watch?v=RXMiMpMfzXw>Practical Optimisations for Pandas

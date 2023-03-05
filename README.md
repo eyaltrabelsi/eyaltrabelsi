@@ -10,6 +10,7 @@ I have with big passion for Python 🐍, Machine Learning 🤖, Databases 🛢�
 
 ## Latest Blog Posts:
 <ul>   
+<li><a href=https://medium.com/technology-hits/leveraging-chatgpt-for-call-for-papers-submissions-6307d082ed03>Leveraging ChatGPT for Call for Papers Submissions</a></li>
     <li><a href=https://medium.com/bigabids-dataverse/how-to-build-trust-in-machine-learning-the-sane-way-39d879f22e69>How to build TRUST in Machine Learning, the sane way</a></li>
     <li><a href=https://medium.com/better-programming/a-comprehensive-guide-to-profiling-python-programs-f8b7db772e6>A Comprehensive Guide to Profiling Python Programs</a></li>
     <li><a href=https://medium.com/towards-artificial-intelligence/comprehensive-guide-to-optimize-your-pandas-code-62980f8c0e64>Comprehensive Guide To Optimize Your Pandas Code</a></li>
@@ -20,6 +21,7 @@ I have with big passion for Python 🐍, Machine Learning 🤖, Databases 🛢�
 </a></li>
     <li><a href=https://towardsdatascience.com/style-pandas-dataframe-like-a-master-6b02bf6468b0>Style Pandas Dataframe Like a Master
 </a></li>
+    <li><a href=https://betterprogramming.pub/a-comprehensive-guide-to-pythons-built-in-data-structures-4d7ca2d242e5>A Comprehensive Guide to Python’s Built-In Data Structures</a></li>    
     <li><a href=https://medium.com/towards-artificial-intelligence/50-python-3-tips-tricks-e5dbe05212d7>50+ Python 3 Tips & Tricks
 </a></li>
 </ul>
@@ -27,6 +29,7 @@ I have with big passion for Python 🐍, Machine Learning 🤖, Databases 🛢�
 
 ## Latest Talks:
 <ul>    
+        <li><a href=https://www.youtube.com/watch?v=dC4PFgnwkzI>Needle in a haystack, How to pick the right MLOPS technology/vendor</a></li>    
     <li><a href=https://github.com/eyaltrabelsi/my-notebooks/blob/master/Lectures/query_optimization_for_mere_humans/Query%20Optimization%20for%20Mere%20Humans.pdf>Query Optimization for Mere Humans
 </a></li>    
 <li><a href=https://github.com/eyaltrabelsi/my-notebooks/blob/master/Lectures/data_intensive_applications_the_sane_way/Testing%20Data%20Intensive%20Applications%2C%20the%20sane%20way-15min.ipynb>Testing Data Intensive Applications, the sane way
@@ -49,6 +52,9 @@ I have with big passion for Python 🐍, Machine Learning 🤖, Databases 🛢�
 ## Others:
 <ul>    
     <li><a href=https://cheatography.com/eyaltra/cheat-sheets/profiling-python-code-in-jupyter>Profiling Python Code In Jupyter
+
+https://medium.com/@Eyaltra/explore-your-data-like-a-boss-9e80f2ed176e
+https://towardsdatascience.com/ready-the-easy-way-to-extend-pandas-api-dcf4f6612615
 </a></li>
 </ul>
 --->

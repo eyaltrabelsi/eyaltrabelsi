@@ -10,6 +10,10 @@ I have with big passion for Python 🐍, Machine Learning 🤖, Databases 🛢�
 
 ## Latest Blog Posts:
 <ul>   
+    
+
+<ul>   
+<li><a href=https://medium.com/bigabids-dataverse/a-systematic-approach-to-choosing-the-best-technology-vendor-8463e780eab6>A Systematic Approach to Choosing the Best Technology/Vendor</a></li>    
 <li><a href=https://medium.com/technology-hits/leveraging-chatgpt-for-call-for-papers-submissions-6307d082ed03>Leveraging ChatGPT for Call for Papers Submissions</a></li>
     <li><a href=https://medium.com/bigabids-dataverse/how-to-build-trust-in-machine-learning-the-sane-way-39d879f22e69>How to build TRUST in Machine Learning, the sane way</a></li>
     <li><a href=https://medium.com/better-programming/a-comprehensive-guide-to-profiling-python-programs-f8b7db772e6>A Comprehensive Guide to Profiling Python Programs</a></li>
@@ -29,8 +33,11 @@ I have with big passion for Python 🐍, Machine Learning 🤖, Databases 🛢�
 
 ## Latest Talks:
 <ul>    
-        <li><a href=https://www.youtube.com/watch?v=dC4PFgnwkzI>Needle in a haystack, How to pick the right MLOPS technology/vendor</a></li>    
-    <li><a href=https://github.com/eyaltrabelsi/my-notebooks/blob/master/Lectures/query_optimization_for_mere_humans/Query%20Optimization%20for%20Mere%20Humans.pdf>Query Optimization for Mere Humans
+<li><a href=https://www.youtube.com/watch?v=kwczC1iJoUA> Testing Machine Learning Code and Artifacts, the Sane Way (15 MIN) </a></li>  
+<li><a href=https://www.youtube.com/watch?v=bbA3SX_MTPMw>  Testing Machine Learning code and artifacts (40 MIN) </a></li>   
+<li><a href=https://www.youtube.com/watch?v=XvulxlK7EYE> Apparently, you can "debug" your SQL queries </a></li>   
+<li><a href=https://www.youtube.com/watch?v=dC4PFgnwkzI>Needle in a haystack, How to pick the right MLOPS technology/vendor</a></li>    
+<li><a href=https://github.com/eyaltrabelsi/my-notebooks/blob/master/Lectures/query_optimization_for_mere_humans/Query%20Optimization%20for%20Mere%20Humans.pdf>Query Optimization for Mere Humans
 </a></li>    
 <li><a href=https://github.com/eyaltrabelsi/my-notebooks/blob/master/Lectures/data_intensive_applications_the_sane_way/Testing%20Data%20Intensive%20Applications%2C%20the%20sane%20way-15min.ipynb>Testing Data Intensive Applications, the sane way
 </a></li>

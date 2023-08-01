@@ -13,6 +13,7 @@ I have with big passion for Python 🐍, Machine Learning 🤖, Databases 🛢�
     
 
 <ul>   
+<li><a href=https://medium.com/bigabids-dataverse/a-systematic-approach-to-choosing-the-best-technology-vendor-8463e780eab6>A Systematic Approach to Choosing the Best Technology: MLOps version</a></li>        
 <li><a href=https://medium.com/bigabids-dataverse/a-systematic-approach-to-choosing-the-best-technology-vendor-8463e780eab6>A Systematic Approach to Choosing the Best Technology/Vendor</a></li>    
 <li><a href=https://medium.com/technology-hits/leveraging-chatgpt-for-call-for-papers-submissions-6307d082ed03>Leveraging ChatGPT for Call for Papers Submissions</a></li>
     <li><a href=https://medium.com/bigabids-dataverse/how-to-build-trust-in-machine-learning-the-sane-way-39d879f22e69>How to build TRUST in Machine Learning, the sane way</a></li>
@@ -43,7 +44,9 @@ I have with big passion for Python 🐍, Machine Learning 🤖, Databases 🛢�
 </a></li>
     <li><a href=https://www.youtube.com/watch?v=9wfFXRCkkLE>Profiling Python by Example
 </a></li>
-    <li><a href=https://www.youtube.com/watch?v=RXMiMpMfzXw>Practical Optimisations for Pandas
+    <li><a href=https://www.youtube.com/watch?v=WutwqPtRyl4>Practical Optimisations for Pandas (Hebrew)
+</a></li>
+    <li><a href=https://www.youtube.com/watch?v=RXMiMpMfzXw>Practical Optimisations for Pandas 
 </a></li>
     <li><a href=https://www.youtube.com/watch?v=6sVDuFQRGgo> Elegant Exception Handling
 </a></li>

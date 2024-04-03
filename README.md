@@ -34,6 +34,7 @@ I have with big passion for Python 🐍, Machine Learning 🤖, Databases 🛢�
 
 ## Latest Talks:
 <ul>    
+<li><a href=https://www.youtube.com/watch?v=Rsbqb_zvZw8&list=WL&index=17&ab_channel=Reversim> Playful Programming: Trolling Friends with Hilarious Code </a></li>  
 <li><a href=https://www.youtube.com/watch?v=kwczC1iJoUA> Testing Machine Learning Code and Artifacts, the Sane Way (15 MIN) </a></li>  
 <li><a href=https://www.youtube.com/watch?v=bbA3SX_MTPMw>  Testing Machine Learning code and artifacts (40 MIN) </a></li>   
 <li><a href=https://www.youtube.com/watch?v=XvulxlK7EYE> Apparently, you can "debug" your SQL queries </a></li>   
